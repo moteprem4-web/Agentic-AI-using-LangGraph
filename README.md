@@ -1,2 +1,4 @@
-# Agentic-AI-using-LangGraph
-Agentic AI using LangGraph A scalable framework to build intelligent, goal-driven AI agents by combining LangGraph’s graph-based reasoning with modular action planning. Supports dynamic task decomposition, memory, tool integration, and execution curves for autonomous workflows.
+#Agentic AI Learning Path using LangGraph
+
+This repository is created as a personal learning path to deeply understand and implement Agentic AI systems using LangGraph.
+It captures my step-by-step exploration, experiments, and design patterns while building intelligent, autonomous agents.
