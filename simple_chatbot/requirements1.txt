@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-huggingface
+huggingface-hub
+python-dotenv
+streamlit
+typing-extensions
